@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(3, 104, 0);
+    font: bold 17px Arial;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.507);
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+}
+
+div {
+    text-align: left;
+    padding: 20px;
+    
+}
+
+input#button11 {
+    margin-bottom: 10px;
+}
+
+input#button22 {
+    margin-bottom: 10px;
+}
+
+input#button22 {
+    margin-bottom: 10px;
+}
+
+p#paragrafo1 {
+    background-color: rgb(3, 104, 0);
+    margin-bottom: 20px;
+    border-radius: 7px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
